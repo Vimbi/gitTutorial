@@ -13,13 +13,13 @@
 | [Prettier][Prettier] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Prettier)
 | [Dompurify][Dompurify] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Dompurify)
 | [Jest][Jest] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Jest)
-| [Framer Motion][Framer Motion] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Framer Motion)
+| [Framer Motion][Framer Motion] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Framer-Motion)
 | [React-beautiful-dnd][React-beautiful-dnd] | [plugins/googleanalytics/README.md][PlGa] |[More details](#React-beautiful-dnd)
 | [React-rnd][React-rnd] | [plugins/googleanalytics/README.md][PlGa] | [More details](#React-rnd)
 | [React Slick][React-slick] | [plugins/googleanalytics/README.md][PlGa] | [More details](#React-slick)
 | [Slick-carousel][Slick-carousel] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Slick-carousel)
-| [Web Vitals][Web Vitals] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Web Vitals)
-| [SheetJS(xlsx)][SheetJS] | [plugins/googleanalytics/README.md][PlGa] | [More details](#SheetJS(xlsx))
+| [Web Vitals][Web Vitals] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Web-Vitals)
+| [SheetJS (xlsx)][SheetJS] | [plugins/googleanalytics/README.md][PlGa] | [More details](#SheetJS-(xlsx))
 
 
 ### React
