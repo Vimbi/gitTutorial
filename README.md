@@ -2,34 +2,41 @@
 
 | Technology | Short description | Full description |
 | ------ | ------ | ------ |
-| [React][React] | Текст | [More details](#react-react-react) |
-| [Redux][Redux] | [plugins/github/README.md][PlGh] | [plugins/github/README.md][PlGh] |
-| [TypeScript][TypeScript] | [plugins/googledrive/README.md][PlGd] | [plugins/googledrive/README.md][PlGd] |
-| [Chakra-UI][Chakra-UI] | [plugins/googledrive/README.md][PlGd] | [plugins/googledrive/README.md][PlGd] |
-| [Webpack][Webpack] | [plugins/onedrive/README.md][PlOd] | [plugins/onedrive/README.md][PlOd] |
-| [Eslint][Eslint] | [plugins/onedrive/README.md][PlOd] | [plugins/onedrive/README.md][PlOd] |
-| [Husky][Husky] | [plugins/medium/README.md][PlMe] | [plugins/medium/README.md][PlMe] | [plugins/github/README.md][PlGh] |
-| [Eslint][Eslint] | [plugins/onedrive/README.md][PlOd] | [plugins/onedrive/README.md][PlOd] |
-| [Prettier][Prettier] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [Dompurify][Dompurify] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [Jest][Jest] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [Framer Motion][Framer Motion] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [React-beautiful-dnd][React-beautiful-dnd] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [React-rnd][React-rnd] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [Slick-carousel][Slick-carousel] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [Web Vitals][Web Vitals] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
-| [SheetJS(xlsx)][SheetJS] | [plugins/googleanalytics/README.md][PlGa] | [plugins/googleanalytics/README.md][PlGa] |
+| [React][React] | Текст | [More details](#react) |
+| [Redux][Redux] | [plugins/github/README.md][PlGh] | [More details](#redux) |
+| [TypeScript][TypeScript] | [plugins/googledrive/README.md][PlGd] | [More details](#TypeScript) |
+| [Chakra-UI][Chakra-UI] | [plugins/googledrive/README.md][PlGd] | [More details](#react) |
+| [Webpack][Webpack] | [plugins/onedrive/README.md][PlOd] | [More details](#react) |
+| [WebSocket][WebSocket] | [plugins/onedrive/README.md][PlOd] | [More details](#react) |
+| [Husky][Husky] | [plugins/medium/README.md][PlMe] | [More details](#react)
+| [Eslint][Eslint] | [plugins/onedrive/README.md][PlOd] | [More details](#react)
+| [Prettier][Prettier] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [Dompurify][Dompurify] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [Jest][Jest] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [Framer Motion][Framer Motion] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [React-beautiful-dnd][React-beautiful-dnd] | [plugins/googleanalytics/README.md][PlGa] |[More details](#react)
+| [React-rnd][React-rnd] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [React Slick][React-slick] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [Slick-carousel][Slick-carousel] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [Web Vitals][Web Vitals] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
+| [SheetJS(xlsx)][SheetJS] | [plugins/googleanalytics/README.md][PlGa] | [More details](#react)
 
 
-
-
-
-
-
-
-
-
-
-
-
-### React React React
+### React
+### Redux
+### TypeScript
+### Chakra-UI
+### Webpack
+### WebSocket
+### Husky
+### Eslint
+### Prettier
+### Dompurify
+### Jest
+### Framer Motion
+### React-beautiful-dnd
+### React-rnd
+### React Slick
+### Slick-carousel
+### Web Vitals
+### SheetJS(xlsx)
