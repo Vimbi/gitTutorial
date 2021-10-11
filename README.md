@@ -2,10 +2,10 @@
 
 | Technology | Short description | Full description |
 | ------ | ------ | ------ |
-| [React][React] | Текст | [More details](#React) |
-| [Redux][Redux] | [plugins/github/README.md][PlGh] | [More details](#Redux) |
-| [TypeScript][TypeScript] | [plugins/googledrive/README.md][PlGd] | [More details](#TypeScript) |
-| [Chakra-UI][Chakra-UI] | [plugins/googledrive/README.md][PlGd] | [More details](#Chakra-UI) |
+| [React][React] |  Free and open-source front-end JavaScript library for building user interfaces or UI components | [More details](#React) |
+| [Redux][Redux] | Open-source JavaScript library for managing and centralizing application state | [More details](#Redux) |
+| [TypeScript][TypeScript] | Strongly typed programming language which builds on JavaScript giving you better tooling at any scale. | [More details](#TypeScript) |
+| [Chakra-UI][Chakra-UI] | Simple, modular and accessible component library that gives you the building blocks you need to build your React applications | [More details](#Chakra-UI) |
 | [Webpack][Webpack] | [plugins/onedrive/README.md][PlOd] | [More details](#Webpack) |
 | [WebSocket][WebSocket] | [plugins/onedrive/README.md][PlOd] | [More details](#WebSocket) |
 | [Husky][Husky] | [plugins/medium/README.md][PlMe] | [More details](#Husky)
