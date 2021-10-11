@@ -2,7 +2,7 @@
 
 | Technology | Short description | Full description |
 | ------ | ------ | ------ |
-| [React][React] | Текст | [More details](#react) |
+| [React][React] | Текст | [More details](#react-react-react) |
 | [Redux][Redux] | [plugins/github/README.md][PlGh] | [plugins/github/README.md][PlGh] |
 | [TypeScript][TypeScript] | [plugins/googledrive/README.md][PlGd] | [plugins/googledrive/README.md][PlGd] |
 | [Chakra-UI][Chakra-UI] | [plugins/googledrive/README.md][PlGd] | [plugins/googledrive/README.md][PlGd] |
@@ -32,4 +32,4 @@
 
 
 
-### React
+### React React React
