@@ -40,3 +40,25 @@
 ### Slick-carousel
 ### Web Vitals
 ### SheetJS(xlsx)
+
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [React]: <https://reactjs.org/>
+   [Redux]: <https://redux.js.org/>
+   [TypeScript]: <https://www.typescriptlang.org/>
+   [Chakra-UI]: <https://chakra-ui.com/>
+   [Webpack]: <https://webpack.js.org/>
+   [WebSocket]: <https://www.npmjs.com/package/ws>
+   [Husky]: <https://typicode.github.io/husky/#/>
+   [Eslint]: <https://www.npmjs.com/package/eslint>
+   [Prettier]: <https://prettier.io/>
+   [Dompurify]: <https://www.npmjs.com/package/dompurify>
+   [Jest]: <https://jestjs.io/>
+   [Framer Motion]: <https://www.npmjs.com/package/framer-motion>
+   [React-beautiful-dnd]: <https://www.npmjs.com/package/react-beautiful-dnd>
+   [React-rnd]: <https://www.npmjs.com/package/react-rnd>
+   [React-slick]: <https://react-slick.neostack.com/>
+   [Slick-carousel]: <https://www.npmjs.com/package/slick-carousel>
+   [Web Vitals]: <https://web.dev/vitals/>
+   [SheetJS]: <https://sheetjs.com/>
