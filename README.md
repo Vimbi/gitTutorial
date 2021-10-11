@@ -19,7 +19,7 @@
 | [React Slick][React-slick] | [plugins/googleanalytics/README.md][PlGa] | [More details](#React-slick)
 | [Slick-carousel][Slick-carousel] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Slick-carousel)
 | [Web Vitals][Web Vitals] | [plugins/googleanalytics/README.md][PlGa] | [More details](#Web-Vitals)
-| [SheetJS (xlsx)][SheetJS] | [plugins/googleanalytics/README.md][PlGa] | [More details](#SheetJS-(xlsx))
+| [SheetJS (xlsx)][SheetJS] | [plugins/googleanalytics/README.md][PlGa] | [More details](#SheetJSxlsx)
 
 
 ### React
